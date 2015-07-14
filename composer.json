@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Common\\ValueObject\\Doctrine\\DBAL": "src/"
+      "Common\\ValueObject\\Doctrine\\DBAL\\": "src/"
     }
   },
   "extra": {
