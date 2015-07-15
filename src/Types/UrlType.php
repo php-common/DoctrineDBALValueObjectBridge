@@ -9,7 +9,7 @@ use Doctrine\DBAL\Types\Type;
 /**
  * Doctrine URL type.
  *
- * @author Marcos Passos <marcos@croct.com>
+ * @author Marcos Passos <marcos@marcospassos.com>
  */
 class UrlType extends Type
 {
